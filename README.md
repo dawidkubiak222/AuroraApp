@@ -2,3 +2,5 @@ An innovative application meticulously crafted to offer real-time insights into 
 
 Languages and software: Java, JFrame, IntelliJ
 
+Version alpha
+
